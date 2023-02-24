@@ -1,0 +1,11 @@
+p {
+   font-size: 30px;
+   font-weight: 700;   
+}
+
+.para{
+    font-weight: 200;
+    font-size: 10px;
+    color: brown;
+}
+body {background-color: #ffffff; background-image: url('home.png'); background-repeat: no-repeat; background-position: ;}
